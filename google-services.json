@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "661032704186",
+    "project_id": "brent-notifs",
+    "storage_bucket": "brent-notifs.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661032704186:android:65719712f81301c356ca83",
+        "android_client_info": {
+          "package_name": "xyz.bront.brentnotifs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661032704186-k1qg2nc79n66un8gfp2sm9gav0skn7fg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_p8bKayI-G9ZG02bC3ukSyeGgE9Rybgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661032704186-k1qg2nc79n66un8gfp2sm9gav0skn7fg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
